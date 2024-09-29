@@ -14,3 +14,6 @@
 
 ## Repo
 https://github.com/Xposed-Modules-Repo/com.makino.cslyric
+
+## 主页
+https://github.com/tomakino/CSLyric/
