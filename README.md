@@ -4,6 +4,9 @@
 
 词幕是一个`Xposed模块`，提供系统通知栏歌词扩展功能。使用非常简单，只需要安装激活后并重启，微调设置就可以使用了😁
 
+# 😐 此版本已放弃，请考虑使用新版
+https://github.com/proify/lyricon
+
 ## 支持的系统
 - Android 8.1 ~ Android 15
 
